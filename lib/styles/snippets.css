@@ -19,7 +19,7 @@ h4 {
 	font-family: XCharter !important
 }
 
-@media (max-width:1024px) {
+@media (max-width:940px) {
 	body {
 		--font-text-size: 16 !important
 	}
