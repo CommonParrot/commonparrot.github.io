@@ -4,10 +4,6 @@
 	overflow: auto
 }
 
-body {
-	--file-line-width: 40em
-}
-
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
 	max-width: 100%
 }

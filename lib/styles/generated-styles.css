@@ -1,11 +1,11 @@
 body {
-	--line-width: 40em;
-	--line-width-adaptive: 40em;
-	--file-line-width: 40em;
+	--line-width: 42em;
+	--line-width-adaptive: 42em;
+	--file-line-width: 42em;
 	--content-width: 500em;
 	--sidebar-width: calc(min(22em, 80vw));
-	--collapse-arrow-size: 0.35em;
-	--tree-horizontal-spacing: 0.62em;
+	--collapse-arrow-size: 0.5em;
+	--tree-horizontal-spacing: 1em;
 	--tree-vertical-spacing: 1em;
 	--sidebar-margin: 24px
 }
