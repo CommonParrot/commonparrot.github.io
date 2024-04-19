@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gamedev Journey Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Gamedev Journey Blog</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 19 Apr 2024 20:00:34 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 19 Apr 2024 20:00:33 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Blobby]]></title><description><![CDATA[ 
+ <br><br>(2023)<br>  <img alt="blobby_thumbnail_2.png" src="lib\media\blobby_thumbnail_2.png"><br><br>Blobby is a puzzle platformer with unique physics about<br>
+a man who became a blob, freeing imprisoned frogs from a<br>
+alien space station, which has fallen into chaos,<br>
+while searching for a cure for his blobbness!<br><br><img alt="blobby_screenshot4.png" src="lib\media\blobby_screenshot4.png" style="width: 800px; max-width: 100%;"><br><img alt="blobby_screenshot5.png" src="lib\media\blobby_screenshot5.png" style="width: 800px; max-width: 100%;"><br>It's my first game and I worked on it, when I had the time, over a span of 1 1/2 years,<br>
+to learn about game programming, game design and Godot.<br>Most advice is to do a lot of small projects first...<br>
+But this is a large one, consisting of a lot of small projects glued together🙃<br>There is a lot to discover, but also things missing,<br>
+like some animations, sprites and sounds. It is a vertical slice after all.<br>
+But the mechanics are complete for now and there is some fun to be had!<br>Play it in your browsers over on itch.io:<br>
+<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/blobby" target="_blank">https://commonparrot.itch.io/blobby</a><br><br><br><br>: <br>: <br>]]></description><link>games-🎮\blobby.html</link><guid isPermaLink="false">Games 🎮/Blobby.md</guid><pubDate>Fri, 19 Apr 2024 19:54:37 GMT</pubDate><enclosure url="lib\media\blobby_thumbnail_2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\blobby_thumbnail_2.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hypnagogia]]></title><description><![CDATA[ 
+ <br><br>(2023)<br><img alt="hypnagogia_thumbnail.png" src="lib\media\hypnagogia_thumbnail.png"><br><br>Inspired by the feeling of a sudden free fall, which we<br>
+sometimes have, in the moment right before falling asleep.<br>
+Also a giant monster is watching you struggle as you fall,<br>
+obstructing your vision and&nbsp;ready to snatch you.<br><br><img alt="hypnagogia_screenshot.png" src="lib\media\hypnagogia_screenshot.png" style="width: 800px; max-width: 100%;"><br>
+<img alt="hypnagogia_screenshot_2.png" src="lib\media\hypnagogia_screenshot_2.png" style="width: 800px; max-width: 100%;"><br>This game was developed for the Mini Jam 144<br>
+Theme: Nightmare, Limitation: Colossal Enemy<br>A friend and I developed this together over a weekend.<br>
+We are both relatively new to game dev and the only other experience he had was<br>
+the Snake game we developed when I showed him around in Godot.<br>
+Another friend had time (and talent :"D) to draw a monster and the title screen for us.<br>We both designed the games systems and while he implemented the obstacles and the<br>
+endlessly spawning tube, I tried to get across the feeling of a free fall, with the controls<br>
+and visuals.<br>It was a lot of fun and I think the result is quite playable for the time it took :D<br>We'll soon be updating and balancing this more.<br>Play it in your browsers over on itch.io!<br>
+<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/hypnagogia" target="_blank">https://commonparrot.itch.io/hypnagogia</a><br>]]></description><link>games-🎮\hypnagogia.html</link><guid isPermaLink="false">Games 🎮/Hypnagogia.md</guid><pubDate>Fri, 19 Apr 2024 19:54:21 GMT</pubDate><enclosure url="lib\media\hypnagogia_thumbnail.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\hypnagogia_thumbnail.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Snacke]]></title><description><![CDATA[ 
+ <br><br>(2023)<br>**<img alt="snacke_thumbnail.png" src="lib\media\snacke_thumbnail.png"><br><br>🐍<br><br><img alt="snacke_screenshot.png" src="lib\media\snacke_screenshot.png" style="width: 800px; max-width: 100%;"><br><br>This little snake clone began as a project to teach a friend the Godot basics<br>
+leading up to a game jam. (see <a data-href="Hypnagogia" href="games-🎮\hypnagogia.html" class="internal-link" target="_self" rel="noopener">Hypnagogia</a>) We learned a lot, but only got a rough<br>
+skeleton ready for the game, in that one afternoon.<br>Afterwards I finished the basic game in some hours of work. I even had some unexpected and interesting challenges, especially with the teleportation<br>
+at the edge of the playing field and with positioning/rotating the bent snake sprites.<br>
+I wrote a small post about the rotation problem here: <a data-href="How to make a snake bend" href="posts-📰\how-to-make-a-snake-bend.html" class="internal-link" target="_self" rel="noopener">How to make a snake bend</a><br>The project is real small and the code base should be easily readable.<br>
+You can find it here:<br>
+<a rel="noopener" class="external-link" href="https://github.com/Stefuniverse/Snacke/tree/dev-jakob" target="_blank">https://github.com/Stefuniverse/Snacke/tree/dev-jakob</a><br>
+(Download Godot and take a look, Godot is cool)<br><br><br><br><a data-tooltip-position="top" aria-label="Posts 📰/How to make a snake bend.md" data-href="Posts 📰/How to make a snake bend.md" href="posts-📰\how-to-make-a-snake-bend.html" class="internal-link" target="_self" rel="noopener">How to make a snake bend</a>: 04.01.2024<br>]]></description><link>games-🎮\snacke.html</link><guid isPermaLink="false">Games 🎮/Snacke.md</guid><pubDate>Fri, 19 Apr 2024 19:53:31 GMT</pubDate><enclosure url="lib\media\snacke_thumbnail.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\snacke_thumbnail.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Space Smash Out]]></title><description><![CDATA[ 
+ <br><br>(2024)<br><img alt="SSO_thumbnail  2.png" src="lib\media\sso_thumbnail-2.png"><br><br>I grabbed an idea out of my idea bucket and made it my entry into Unity :D<br>
+The premise is simple:<br>
+inside of the bubble you can move swiftly without drifting or gravity,<br>
+but once you get outside gravity sets in and this pesky inertia is<br>
+making your moves less precise again.<br>
+<br>
+By boosting you can outrun gravity temporarily, but you have to be smart about it, to not get tackled<br>
+out of bounds by your opponent!<br><br><img alt="SSO_screenshot2.png" src="lib\media\sso_screenshot2.png" style="width: 800px; max-width: 100%;"><br>
+<img alt="SSO_screenshot1.png" src="lib\media\sso_screenshot1.png" style="width: 800px; max-width: 100%;"><br><br>This is what I want to turn into a nice demo right now, so anticipate big improvments!<br>Try it over on itch.io!<br>
+For now it can only be played with two players on one machine.<br>
+<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/space-smash-out" target="_blank">https://commonparrot.itch.io/space-smash-out</a>]]></description><link>games-🎮\space-smash-out.html</link><guid isPermaLink="false">Games 🎮/Space Smash Out.md</guid><pubDate>Fri, 19 Apr 2024 19:55:38 GMT</pubDate><enclosure url="lib\media\sso_thumbnail-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\sso_thumbnail-2.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cool Features in Blobby]]></title><description><![CDATA[ 
+ <br><br>Hello there^^<br>Here I want to present to you some of the cool features which made it into <a data-href="Blobby" href="games-🎮\blobby.html" class="internal-link" target="_self" rel="noopener">Blobby</a>.<br>
+This is a collection of small clips, no implementation details or anything like that.<br>
+So in no particular order:<br><br>I explained how this works exactly over here: <a data-href="Springs" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a><br><br>(Disclaimer:<br>
+Safari for iOS does not support the nice small VP9 encoded WebM videos hosted here,<br>
+for some can-of-wormsy reason. Please consider viewing this on a PC/Mac, Android or playing the game for now.)<br><br><br>The camera adapts to Blobby's movement direction, when he moves towards<br>
+an edge of the screen at a certain speed for some amount of time.<br><br><br><br>It reacts to the players velocity and even considers the draft when running by.<br><br><br><br>The frogs can jump on and off ledges while avoiding dangers and chasing their prey.<br><br><br><br>The flyer might be a bit stupid...<br>
+But he doesn't get caught on edges easily and (almost) always<br>
+finds a way to chase and annoy you😈🦟<br>
+The method for avoiding getting caught on edges is inspired by and a more simplified<br>
+version of this: <a rel="noopener" class="external-link" href="https://youtu.be/4ryNGS3kKHw?si=ELQFlA5G-wIiVQiu&amp;t=377" target="_blank">https://youtu.be/4ryNGS3kKHw?si=ELQFlA5G-wIiVQiu&amp;t=377</a><br><br><br><br>They give you the information you need at the right time<br>
+and if you ignore them for a while....<br><br><br><br>It might seem trivial, but this took some effort and improves usability a lot!<br><br><br><br>This isn't verlet integration, but a chain of rigid body links spawned in at runtime,<br>
+up to the desired length. They could be used to calculate forces, but now it only<br>
+looks like the frog is held back by the chain itself and sometimes the illusion is better than the real thing in game dev! (really all of the time... it's debatable^^)<br>]]></description><link>posts-📰\cool-features.html</link><guid isPermaLink="false">Posts 📰/Cool Features.md</guid><pubDate>Tue, 13 Feb 2024 13:42:17 GMT</pubDate></item><item><title><![CDATA[How to make a snake bend]]></title><description><![CDATA[ 
+ <br><br><br>I started to develop this small snake clone with a friend, who knew a lot about<br>
+software development, but didn't develop a game before and didn't have any<br>
+experience with Godot.<br>
+In preparation for a game jam, we wanted to produce a small game,<br>
+to learn how we could work together as two developers on a small code base.<br>
+We took a few hours of our Sunday to do this and didn't get very far...<br>
+But we had a solid foundation, he learned a lot about Godot and also made me consider some interesting system design choices.<br>
+As he had little time to finish this small project, I continued for some 12-15h<br>
+finishing this game. <br>Take a look at it here: <a data-href="Snacke" href="games-🎮\snacke.html" class="internal-link" target="_self" rel="noopener">Snacke</a>,  there's also a link to the projects repository.<br>Probably the most interesting bit about this development process was<br>
+figuring out how to orient the snake bodies sprites relative to each other.<br><br><br>So the snake is made up of a linked list of SnakeParts, which this code is from.<br>
+Each part has the part in front and at the back of it as references.<br>
+(If there is no front or back part, the part is considered the head or the tail of the snake)<br>
+<br>
+The heading_direction parameter for adjust_sprite is the direction this snake part<br>
+moved in last, adjusted for teleportation.<br># Adjusts the sprite of a snake part to fit in with it's neighbours
+func adjust_sprite(heading_direction: Vector2, 
+regular_move_distance: float) -&gt; void:
+
+    # Part is head
+    if (front_part == null):
+        set_sprite(0, direction_to_sprite_rotation(heading_direction))
+        return
+    
+    # Checks the direction the front part by comparing positions
+    var front_direction: Vector2 = 
+        teleport_to_regular_move(front_part.position - position, 
+        regular_move_distance).normalized()
+
+    # Angle of the direction this part moved towards last turn, relative
+    # to the direction the part which is in front of this one is in. 
+    var front_turn_angle: float =
+        heading_direction.angle_to(front_direction)
+
+    # Part is tail
+    if (back_part == null):
+        set_sprite(3, direction_to_sprite_rotation(front_direction))
+        return
+
+    # Part is straight
+    if(front_turn_angle == 0):
+        set_sprite(1, direction_to_sprite_rotation(front_direction))
+        return
+
+
+    # Determine fitting bend sprite
+    
+    set_sprite(2, direction_to_sprite_rotation(heading_direction))
+    # There are only left and right bends, 
+    # if you take the movement direction of the snake part as the 
+    # "up" reference direction.
+    # The default is the left bend
+
+    # The case for a right bend
+    if(front_turn_angle &gt; 0):
+        set_sprite(2, direction_to_sprite_rotation(
+        heading_direction.normalized().rotated(deg_to_rad(-90))))
+        return
+Copy<br><br><br># Maps the four directional Vectors right,left,down, 
+# up to the fitting rotation of the snake sprites. 
+# Depends on the provided sprites.
+func direction_to_sprite_rotation(dir: Vector2) -&gt; float:
+    var direction: Vector2 = dir.normalized()
+    if direction.is_equal_approx(Vector2(1,0)):
+        return deg_to_rad(90)
+
+    if direction.is_equal_approx(Vector2(-1,0)):
+        return deg_to_rad(-90)
+
+    if direction.is_equal_approx(Vector2(0,1)):
+        return deg_to_rad(180)
+
+    if direction.is_equal_approx(Vector2(0,-1)):
+        return deg_to_rad(0)
+
+    return 0
+Copy<br><br>
+<br>
+When a part teleports to the other side of the field, it reappears behind the part<br>
+it was in front/to the side of. With this method I check if that has happend<br>
+and return the direction as if the part didn't teleport.<br># If the part is teleported to the other side of the field
+# this will translate the move into a regular move without teleportation.
+func teleport_to_regular_move(displacement: Vector2, regular_move_distance) -&gt; Vector2:
+
+    if displacement.length() &lt;= regular_move_distance:
+        return displacement
+
+    if displacement.normalized().is_equal_approx(Vector2(-1,0)):
+        return Vector2(1, 0)
+
+    if displacement.normalized().is_equal_approx(Vector2(1,0)):
+        return Vector2(-1, 0)
+
+    if displacement.normalized().is_equal_approx(Vector2(0,-1)):
+        return Vector2(0, 1)
+
+    if displacement.normalized().is_equal_approx(Vector2(0,1)):
+        return Vector2(0, -1)
+
+    return Vector2(0,0)
+Copy]]></description><link>posts-📰\how-to-make-a-snake-bend.html</link><guid isPermaLink="false">Posts 📰/How to make a snake bend.md</guid><pubDate>Fri, 16 Feb 2024 14:28:10 GMT</pubDate></item><item><title><![CDATA[Springs in Blobby]]></title><description><![CDATA[ 
+ <br><br> <br>
+I really wanted to get some of the game feel of the brilliant N++ into <a data-href="Blobby" href="games-🎮\blobby.html" class="internal-link" target="_self" rel="noopener">Blobby</a>,<br>
+as it was my biggest inspiration to begin with.<br>
+In N++ the physics and dynamic nature of some obstacles are the MVPs,<br>
+right after the character movement (which I didn't plan to replicate).<br>
+<br>
+One of the more interesting obstacles/platforms were the bouncy cubes.<br>
+You see what I mean if you watch this gameplay:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+From that came the idea to implement a spring platform for Blobby,<br>
+which behaved like a real spring would.<br>
+For it's gameplay I only needed it to be interactable from above,<br>
+not from all sides like in N++.<br>
+<br>
+And so I took a look into my Tafelwerk (collection of formulas<a href="about:blank#fn-1-32418c36b9d0fc9a" class="footnote-link" target="_self" rel="noopener">[1]</a>),<br>
+which was collecting dust for too many years, to piece together the physical formulas which would allow me to get a spring-like behavior.<br>
+<br>
+This is how it looks in the game:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+It is probably worth to note, that if you are dealing with interactions between rigid bodies, Godot's dampened spring joint would be a more sensible alternative to this.<br>
+But in my case much depended on Blobby being a KinematicBody2D instead.<br>
+<br>
+While the KinematicBody2D offers more direct control over Blobby's movement,<br>
+it is mostly incompatible with the built-in physics objects which Godot offers.<br>
+<br>
+The implementation of my spring only consists of three parts:<br>
+<br><br><br><br> <br>
+For the initial reaction of the spring I used this formula:<br> <br><br> <br>
+The result is a velocity which the spring platform and incoming body share.<br>
+For reliability reasons, the velocity of an incoming body is detected via an Area2D,<br>
+which is placed slightly above the springs surface, before actual contact is made.<br>
+(collision code:<a href="about:blank#fn-2-32418c36b9d0fc9a" class="footnote-link" target="_self" rel="noopener">[2]</a>)<br>func body_on_spring() -&gt; void:
+    var a_vel = stored_incoming_velocity
+    var a_mass = coupled_body().mass
+    var b_vel = y_velocity
+    var b_mass = mass
+    y_velocity +=  (a_mass * a_vel + b_mass * b_vel)/(a_mass + b_mass)
+    stored_incoming_velocity = 0
+    shock_ready = false
+Copy<br> <br><br><br><br> <br>
+In the physics_process function of the spring, it's velocity is calculated.<br>
+In Godot the physics process of each node is executed at a fixed rate<br>
+(in contrast to the frame rate dependent process function), in Blobby it's 60Hz.<br>
+First I calculate the resulting force acting on the spring, by adding up the opposing forces:<br> <br><br> <br>
+The mass here is the mass of the spring platform itself together with a body,<br>
+which might have jumped on it.<br>
+On the code side, I first register if a body has entered the spring platform,<br>
+calculating a inelastic shock with the platform if so.<br>
+Then I calculate the resulting force like above. From that I get the acceleration<br>
+and use the delta time to calculate the current velocity.<br> <br><br> <br>func _physics_process(delta: float) -&gt; void:
+    var bc = body_contact()
+    if !bc:
+        shock_ready = true
+    if bc &amp;&amp; shock_ready:
+        body_on_spring()
+
+    var spring_force = spring_k * (self.start_y - self.position.y)
+    if coupled_body() != null:
+        coupled_mass = mass + coupled_body.mass
+    else:
+        coupled_mass = mass
+
+    var weight_force = coupled_mass * PhysicsConst.gravity
+    var result_force = weight_force + spring_force
+    y_velocity += (result_force/coupled_mass) * delta
+
+    y_velocity *= friction
+    
+    # This changes the position of the platform independently 
+    # from godot physics
+    # Blobby then reacts through godot physics with move_and_slide
+    self.position.y += y_velocity * delta
+Copy<br>I also use a friction variable between 0 and 1, which I apply to the velocity,<br>
+so that the spring won't oscillate forever.<br>
+(the code for body_contact: <a href="about:blank#fn-3-32418c36b9d0fc9a" class="footnote-link" target="_self" rel="noopener">[3]</a> and body exiting: <a href="about:blank#fn-4-32418c36b9d0fc9a" class="footnote-link" target="_self" rel="noopener">[4]</a>)<br> <br><br><br><br> <br>
+When the spring is stretched out, be it by the weight of the platform itself or<br>
+the combined weight together with a body (player/creature), it results in<br>
+some potential energy being stored within the spring. This is calculated<br>
+once a body is leaving the Area2D of the spring, giving some of the springs<br>
+potential energy back to the body, resulting in a higher jump.<br>The resulting velocity is calculated by replacing  with  and solving for :<br> <br><br> <br>
+And here is the code for that, including the ratio of the spring platforms weight itself<br>
+to the body resting on it, the direction of the resulting velocity and avoiding divisions by , when the mass of the body resting on the spring gets too low:<br>func _on_SpringSkin_area_exited(_area: Area2D) -&gt; void:
+    var displacement = self.position.y - self.start_y
+    var potential_spring_energy = spring_k * 0.5 * pow(displacement, 2)
+    var mass_ratio = 1 - mass / coupled_mass
+    var transferred_kinetic_energy = potential_spring_energy * mass_ratio
+    var kinetic_energy_in_velocity = (
+        -sign(displacement)
+        * sqrt(
+                2 * transferred_kinetic_energy /
+                 max(coupled_mass - mass, 0.001) 
+        )
+    )
+    if coupled_body() != null:
+        # This directly applies a velocity to the coupled body
+        coupled_body().velocity.y += kinetic_energy_in_velocity
+        coupled_body_ref = weakref(null)
+        spring_sound_armed = true
+Copy<br><br>
+The "SpringSkin" here is the Area2D of the spring platform, which triggers<br>
+interactions when recognized areas are entering, resting in or leaving.<br>
+The function itself is connected to and triggered by a signal of this Area2D instance.<br>If I pick up this mechanic for another game, I would probably make it so that the spring accounts for many bodies resting on it, by expanding on the coupled_body variable.<br>
+The velocity is also directly applied to the coupled body from the outside,<br>
+this could be problematic, if I add many more such interactions. <br>If my player randomly gets catapulted across a level it would be hard to trace which mechanic caused the velocity change in the player character.<br>
+One idea for the future would be to gather these sorts of physics influences,<br>
+in a script of it's own to make them traceable, detect anomalies and apply a single resulting force to the player.<br>
+But for the scope of this game/demo this implementation will suffice.<br>
+<br><br><br><br> <br>
+The spring is easily one of the most satisfying mechanics in the game right now,<br>
+if you learn how to use it. With the tweaks I made to the gravity in the game,<br>
+the spring constant, the friction and the weight of the spring platform, a big boost<br>
+in jump height is more likely than a failed, dampened jump.<br>But I noticed that one play tester wasn't intuitively waiting for the spring to stretch<br>
+before jumping again, loosing a lot of momentum, causing frustration.<br>
+I think this indicates that consistent feedback of springs, more independent from players gaming history and skill, could be more suitable for the widest possible player base, even with the trade-off of mechanical depth.<br>It might also be mitigated a bit by changing the visuals, to a representation of<br>
+a real spring and or adding a color indication, for how much potential energy is<br>
+in the stretched spring. I might add that in the future, but for now<br>
+I enjoy that I could bring some of the mechanical depth of N++ over to Blobby😄<br><br><br><br><br>
+<br>
+<br>
+A collection of formulas and tables for STEM subjects in german high school. There are books like that in many countries. It's called Binas in the netherlands and Maol Taulukot in finland.<a href="about:blank#fnref-1-32418c36b9d0fc9a" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+
+<br>
+func _on_EnteringVelocityDetector_area_entered(area: Area2D) -&gt; void:
+    # The allowed areas are limited by using layers in the Godot editor
+	if area.get_parent().velocity.y &gt; 0:
+		stored_incoming_velocity = area.get_parent().velocity.y
+
+Copy
+<a href="about:blank#fnref-2-32418c36b9d0fc9a" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+
+<br>
+var coupled_body_ref = weakref(null)
+func coupled_body():
+    return coupled_body_ref.get_ref()
+func _body_contact() -&gt; bool:
+    var areas: Array = $SpringSkin.get_overlapping_areas()
+    for i in range(0, areas.size()):
+        if !areas[i].get_parent().is_class("PhysicsBody2D"):
+            continue
+        if !areas[i].get_parent().is_on_floor():
+            return false
+        coupled_body_ref = weakref(areas[i].get_parent())
+        return true
+    return false
+
+Copy
+<a href="about:blank#fnref-3-32418c36b9d0fc9a" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+
+<br>
+func _on_EnteringVelocityDetector_area_exited(area: Area2D) -&gt; void:
+    if area.get_parent().is_class("PhysicsBody2D") &amp;&amp; spring_sound_armed:
+        $SpringSound.play()
+        spring_sound_armed = false
+Copy
+<a href="about:blank#fnref-4-32418c36b9d0fc9a" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+
+]]></description><link>posts-📰\springs.html</link><guid isPermaLink="false">Posts 📰/Springs.md</guid><pubDate>Fri, 16 Feb 2024 14:26:18 GMT</pubDate></item><item><title><![CDATA[About]]></title><description><![CDATA[ 
+ <br><br>Hi, I'm Jakob aka CommonParrot.<br>
+I enjoy building games and learning how to make them better😄<br>
+It's the small details of the player experience which I really love to work on.<br>
+I think it's fundamental to communicate a games vibe over the smallest<br>
+feedback the player gets.<br>
+<br>
+Being deliberate with this is essential to getting across the experience<br>
+which was envisioned. And that doesn't only include character movement and interactions with the environment, but also everything from tutorials to UI.<br>
+<br>
+After writing software professionally in C# for a while and making games in Godot on the side, I'm dedicating a year developing games full time and trying to enter the industry as a game developer.<br>
+<br>
+After finishing the vertical slice of Blobby in Godot, I've started<br>
+with Unity to keep my C# skills # and to improve as a software developer,<br>
+while making smaller games and toys.<br>
+<br>
+Check out my releases over on: <a rel="noopener" class="external-link" href="https://commonparrot.itch.io" target="_blank">https://commonparrot.itch.io</a><br>
+<br><br><br><br><br>Blobby: <br><a data-tooltip-position="top" aria-label="Posts 📰/Cool Features.md" data-href="Posts 📰/Cool Features.md" href="posts-📰\cool-features.html" class="internal-link" target="_self" rel="noopener">Cool Features</a><br><a data-tooltip-position="top" aria-label="Posts 📰/Springs.md" data-href="Posts 📰/Springs.md" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a><br>Snacke: <br><a data-tooltip-position="top" aria-label="Posts 📰/How to make a snake bend.md" data-href="Posts 📰/How to make a snake bend.md" href="posts-📰\how-to-make-a-snake-bend.html" class="internal-link" target="_self" rel="noopener">How to make a snake bend</a><br><br>
+<br><br><br><br><br><br>
+This blog is powered by the awesome Obsidian<br>
+and the equally awesome HTML export plugin.<br>
+<a rel="noopener" class="external-link" href="https://obsidian.md/" target="_blank">https://obsidian.md/</a><br>
+<a rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">https://github.com/KosmosisDire/obsidian-webpage-export</a>]]></description><link>about.html</link><guid isPermaLink="false">About.md</guid><pubDate>Fri, 19 Apr 2024 19:57:37 GMT</pubDate><enclosure url="images\sso_thumbnail-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;images\sso_thumbnail-2.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
