@@ -1,68 +1,18 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gamedev Journey Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Gamedev Journey Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 14 May 2024 18:55:12 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 14 May 2024 18:55:10 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Blobby]]></title><description><![CDATA[ 
- <br><br>(2023)<br>  <img alt="blobby_thumbnail_2.png" src="lib\media\blobby_thumbnail_2.png"><br><br>Blobby is a puzzle platformer with unique physics about<br>
-a man who became a blob, freeing imprisoned frogs from a<br>
-alien space station, which has fallen into chaos,<br>
-while searching for a cure for his blobbness!<br><br><img alt="blobby_screenshot4.png" src="lib\media\blobby_screenshot4.png" style="width: 800px; max-width: 100%;"><br><img alt="blobby_screenshot5.png" src="lib\media\blobby_screenshot5.png" style="width: 800px; max-width: 100%;"><br>It's my first game and I worked on it, when I had the time, over a span of 1 1/2 years,<br>
-to learn about game programming, game design and Godot.<br>Most advice is to do a lot of small projects first...<br>
-But this is a large one, consisting of a lot of small projects glued together🙃<br>There is a lot to discover, but also things missing,<br>
-like some animations, sprites and sounds. It is a vertical slice after all.<br>
-But the mechanics are complete for now and there is some fun to be had!<br>Play it in your browsers over on itch.io:<br>
-<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/blobby" target="_blank">https://commonparrot.itch.io/blobby</a><br><br><br><br><a data-tooltip-position="top" aria-label="Posts 📰/Springs.md" data-href="Posts 📰/Springs.md" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a>: 13.11.2023<br><a data-tooltip-position="top" aria-label="Posts 📰/Cool Features.md" data-href="Posts 📰/Cool Features.md" href="posts-📰\cool-features.html" class="internal-link" target="_self" rel="noopener">Cool Features</a>: 04.02.2024<br>]]></description><link>games-🎮\blobby.html</link><guid isPermaLink="false">Games 🎮/Blobby.md</guid><pubDate>Tue, 14 May 2024 18:32:01 GMT</pubDate><enclosure url="lib\media\blobby_thumbnail_2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\blobby_thumbnail_2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hypnagogia]]></title><description><![CDATA[ 
- <br><br>(2023)<br><img alt="hypnagogia_thumbnail.png" src="lib\media\hypnagogia_thumbnail.png"><br><br>Inspired by the feeling of a sudden free fall, which we<br>
-sometimes have, in the moment right before falling asleep.<br>
-Also a giant monster is watching you struggle as you fall,<br>
-obstructing your vision and&nbsp;ready to snatch you.<br><br><img alt="hypnagogia_screenshot.png" src="lib\media\hypnagogia_screenshot.png" style="width: 800px; max-width: 100%;"><br>
-<img alt="hypnagogia_screenshot_2.png" src="lib\media\hypnagogia_screenshot_2.png" style="width: 800px; max-width: 100%;"><br>This game was developed for the Mini Jam 144<br>
-Theme: Nightmare, Limitation: Colossal Enemy<br>A friend and I developed this together over a weekend.<br>
-We are both relatively new to game dev and the only other experience he had was<br>
-the Snake game we developed when I showed him around in Godot.<br>
-Another friend had time (and talent :"D) to draw a monster and the title screen for us.<br>We both designed the games systems and while he implemented the obstacles and the<br>
-endlessly spawning tube, I tried to get across the feeling of a free fall, with the controls<br>
-and visuals.<br>It was a lot of fun and I think the result is quite playable for the time it took :D<br>We'll soon be updating and balancing this more.<br>Play it in your browsers over on itch.io!<br>
-<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/hypnagogia" target="_blank">https://commonparrot.itch.io/hypnagogia</a><br>]]></description><link>games-🎮\hypnagogia.html</link><guid isPermaLink="false">Games 🎮/Hypnagogia.md</guid><pubDate>Tue, 14 May 2024 18:32:38 GMT</pubDate><enclosure url="lib\media\hypnagogia_thumbnail.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\hypnagogia_thumbnail.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Snacke]]></title><description><![CDATA[ 
- <br><br>(2023)<br>**<img alt="snacke_thumbnail.png" src="lib\media\snacke_thumbnail.png"><br><br>🐍<br><br><img alt="snacke_screenshot.png" src="lib\media\snacke_screenshot.png" style="width: 800px; max-width: 100%;"><br><br>This little snake clone began as a project to teach a friend the Godot basics<br>
-leading up to a game jam. (see <a data-href="Hypnagogia" href="games-🎮\hypnagogia.html" class="internal-link" target="_self" rel="noopener">Hypnagogia</a>) We learned a lot, but only got a rough<br>
-skeleton ready for the game, in that one afternoon.<br>Afterwards I finished the basic game in some hours of work. I even had some unexpected and interesting challenges, especially with the teleportation<br>
-at the edge of the playing field and with positioning/rotating the bent snake sprites.<br>
-I wrote a small post about the rotation problem here: <a data-href="How to make a snake bend" href="posts-📰\how-to-make-a-snake-bend.html" class="internal-link" target="_self" rel="noopener">How to make a snake bend</a><br>The project is real small and the code base should be easily readable.<br>
-You can find it here:<br>
-<a rel="noopener" class="external-link" href="https://github.com/Stefuniverse/Snacke/tree/dev-jakob" target="_blank">https://github.com/Stefuniverse/Snacke/tree/dev-jakob</a><br>
-(Download Godot and take a look, Godot is cool)<br><br><br><br>: <br>]]></description><link>games-🎮\snacke.html</link><guid isPermaLink="false">Games 🎮/Snacke.md</guid><pubDate>Tue, 14 May 2024 18:33:23 GMT</pubDate><enclosure url="lib\media\snacke_thumbnail.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\snacke_thumbnail.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Space Smash Out]]></title><description><![CDATA[ 
- <br><br>(2024)<br><img alt="SSO_thumbnail  2.png" src="lib\media\sso_thumbnail-2.png"><br><br>I grabbed an idea out of my idea bucket and made it my entry into Unity :D<br>
-The premise is simple:<br>
-inside of the bubble you can move swiftly without drifting or gravity,<br>
-but once you get outside gravity sets in and this pesky inertia is<br>
-making your moves less precise again.<br>
-<br>
-By boosting you can outrun gravity temporarily, but you have to be smart about it, to not get tackled<br>
-out of bounds by your opponent!<br><br><img alt="SSO_screenshot2.png" src="lib\media\sso_screenshot2.png" style="width: 800px; max-width: 100%;"><br>
-<img alt="SSO_screenshot1.png" src="lib\media\sso_screenshot1.png" style="width: 800px; max-width: 100%;"><br><br>This is what I want to turn into a nice demo right now, so anticipate big improvments!<br>Try it over on itch.io!<br>
-For now it can only be played with two players on one machine.<br>
-<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/space-smash-out" target="_blank">https://commonparrot.itch.io/space-smash-out</a>]]></description><link>games-🎮\space-smash-out-(first-prototype).html</link><guid isPermaLink="false">Games 🎮/Space Smash Out (First Prototype).md</guid><pubDate>Tue, 14 May 2024 18:33:38 GMT</pubDate><enclosure url="lib\media\sso_thumbnail-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sso_thumbnail-2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Space Smash Out]]></title><description><![CDATA[ 
- <br><br>(2024)<br>
-<img alt="SSO_screenshot4.png" src="lib\media\sso_screenshot4.png"><br><br>Smash your opponents out of the ring be being faster and fiercer than them!<br>
-<br>
-But only inside of the bubble you can move swiftly without drifting or gravity,<br>
-but once you get outside gravity sets in and this pesky inertia is<br>
-making your moves less precise again.<br>
-<br>
-By boosting you can outrun gravity temporarily, but you have to be smart about it, to not get tackled<br>
-out of bounds by your opponent!<br><br><br>
-This clip shows the current state of the 1v1 mode.<br><br><br>
-Here you can see the free flight mode, which was initially only for testing and showing off the different systems, but it might become it's own single player game loop.<br><br>A demo for this is soon to be released on itch. For now you can play the first prototype to get warm with the games core mechanics.<br>
-<a data-href="Space Smash Out (First Prototype)" href="games-🎮\space-smash-out-(first-prototype).html" class="internal-link" target="_self" rel="noopener">Space Smash Out (First Prototype)</a><br>
-<a rel="noopener" class="external-link" href="https://commonparrot.itch.io/space-smash-out" target="_blank">https://commonparrot.itch.io/space-smash-out</a>]]></description><link>games-🎮\space-smash-out-(wip).html</link><guid isPermaLink="false">Games 🎮/Space Smash Out (WIP).md</guid><pubDate>Tue, 14 May 2024 18:32:49 GMT</pubDate><enclosure url="lib\media\sso_screenshot4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sso_screenshot4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cool Features in Blobby]]></title><description><![CDATA[ 
- <br><br>Hello there^^<br>Here I want to present to you some of the cool features which made it into <a data-href="Blobby" href="games-🎮\blobby.html" class="internal-link" target="_self" rel="noopener">Blobby</a>.<br>
-This is a collection of small clips, no implementation details or anything like that.<br>
-So in no particular order:<br><br>I explained how this works exactly over here: <a data-href="Springs" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a><br><br><br><br>The camera adapts to Blobby's movement direction, when he moves towards<br>
-an edge of the screen at a certain speed for some amount of time.<br><br><br><br>It reacts to the players velocity and even considers the draft when running by.<br><br><br><br>The frogs can jump on and off ledges while avoiding dangers and chasing their prey.<br><br><br><br>The flyer might be a bit stupid...<br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gamedev Journey Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Gamedev Journey Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 27 May 2024 14:09:04 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 27 May 2024 14:09:02 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Blobby]]></title><description><![CDATA[ 
+ Godot 3.6 + GDScript,Game Design,Level Design,2D platformer & puzzle logic,Collaboration with artists,[[Cool Features | Short clips of cool features]]]]></description><link>games-🎮\blobby.html</link><guid isPermaLink="false">Games 🎮/Blobby.md</guid><pubDate>Thu, 23 May 2024 11:49:04 GMT</pubDate><enclosure url="lib\media\blobby_thumbnail_3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\blobby_thumbnail_3.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hypnagogia (GameJam Project)]]></title><description><![CDATA[ 
+ Godot 4.1 + GDScript,Sound design,Character controls & movement,Particle effects in Godot,Noise based materials,Rapid iteration and collaboration with heavy useage of GIT]]></description><link>games-🎮\hypnagogia-(game-jam-project).html</link><guid isPermaLink="false">Games 🎮/Hypnagogia (Game Jam Project).md</guid><pubDate>Thu, 23 May 2024 11:46:43 GMT</pubDate><enclosure url="lib\media\hypnagogia_thumbnail.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\hypnagogia_thumbnail.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Snacke]]></title><description><![CDATA[ 
+ 🐍]]></description><link>games-🎮\snacke.html</link><guid isPermaLink="false">Games 🎮/Snacke.md</guid><pubDate>Thu, 23 May 2024 11:47:05 GMT</pubDate><enclosure url="lib\media\snacke_thumbnail.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\snacke_thumbnail.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Space Smash Out (First Prototype)]]></title><description><![CDATA[ 
+ Unity + C#,Rigidbody controls,Collider interactions]]></description><link>games-🎮\space-smash-out-(first-prototype).html</link><guid isPermaLink="false">Games 🎮/Space Smash Out       (First Prototype).md</guid><pubDate>Thu, 23 May 2024 11:54:47 GMT</pubDate><enclosure url="lib\media\sso_thumbnail-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sso_thumbnail-2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Space Smash Out]]></title><description><![CDATA[ 
+ Unity + C#,URP, ShaderLab, HLSL, ShaderGraph,particle effects,Scene and assets management,integrating & repurposing store assets]]></description><link>games-🎮\space-smash-out-(wip).html</link><guid isPermaLink="false">Games 🎮/Space Smash Out (WIP).md</guid><pubDate>Thu, 23 May 2024 11:54:15 GMT</pubDate><enclosure url="lib\media\sso_screenshot4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sso_screenshot4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cool Features in Blobby]]></title><description><![CDATA[ 
+ <br><br>Hi there 🙋‍♂️<br>
+With this post I want to present to you some of the cool features which made it into <a data-href="Blobby" href="games-🎮\blobby.html" class="internal-link" target="_self" rel="noopener">Blobby</a>. This is a collection of small clips, no implementation details or anything like that. So in no particular order:<br><br>I explained how this works exactly over here: <a data-href="Springs" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a><br><br><br><br>The camera adapts to Blobby's movement direction, when he moves towards<br>
+an edge of the screen at a certain speed for some amount of time.<br><br><br><br>It reacts to the players velocity and even considers the draft when running by.<br><br><br><br>The froggies are your friends in this game, they will target and eat the flyers, unlocking previously blocked paths. They can also jump through the levels while avoiding obvious dangers. It is one of the games main goals to free them all from their chains.<br>The chains consists of rigid body links spawned in at runtime, up to the desired length. They could be used to calculate forces, but now it only looks like the frog is held back by the chain itself.<br><br><br><br>The flyer might be a bit stupid...<br>
 But he doesn't get caught on edges easily and (almost) always<br>
 finds a way to chase and annoy you😈🦟<br>
 The method for avoiding getting caught on edges is inspired by and a more simplified<br>
 version of this: <a rel="noopener" class="external-link" href="https://youtu.be/4ryNGS3kKHw?si=ELQFlA5G-wIiVQiu&amp;t=377" target="_blank">https://youtu.be/4ryNGS3kKHw?si=ELQFlA5G-wIiVQiu&amp;t=377</a><br><br><br><br>They give you the information you need at the right time<br>
-and if you ignore them for a while....<br><br><br><br>It might seem trivial, but this took some effort and improves usability a lot!<br><br><br><br>This isn't verlet integration, but a chain of rigid body links spawned in at runtime,<br>
-up to the desired length. They could be used to calculate forces, but now it only<br>
-looks like the frog is held back by the chain itself and sometimes the illusion is better than the real thing in game dev! (really all of the time... it's debatable^^)<br>]]></description><link>posts-📰\cool-features.html</link><guid isPermaLink="false">Posts 📰/Cool Features.md</guid><pubDate>Tue, 30 Apr 2024 12:33:43 GMT</pubDate></item><item><title><![CDATA[How to make a snake bend]]></title><description><![CDATA[ 
+and if you ignore them for a while....<br><br><br><br>It might seem trivial, but this took some effort and improves usability a lot!<br><br><br><br>Here I'm just playing through the first level of the game (after the tutorial stages).<br>
+This clip also has sound.<br>]]></description><link>posts-📰\cool-features.html</link><guid isPermaLink="false">Posts 📰/Cool Features.md</guid><pubDate>Mon, 27 May 2024 13:45:36 GMT</pubDate></item><item><title><![CDATA[How to make a snake bend]]></title><description><![CDATA[ 
  <br><br><br>I started to develop this small snake clone with a friend, who knew a lot about<br>
 software development, but didn't develop a game before and didn't have any<br>
 experience with Godot.<br>
@@ -181,7 +131,7 @@ which behaved like a real spring would.<br>
 For it's gameplay I only needed it to be interactable from above,<br>
 not from all sides like in N++.<br>
 <br>
-And so I took a look into my Tafelwerk (collection of formulas<a href="about:blank#fn-1-a99678144a7e9912" class="footnote-link" target="_self" rel="noopener">[1]</a>),<br>
+And so I took a look into my Tafelwerk (collection of formulas<a href="about:blank#fn-1-26e6703b65a59227" class="footnote-link" target="_self" rel="noopener">[1]</a>),<br>
 which was collecting dust for too many years, to piece together the physical formulas which would allow me to get a spring-like behavior.<br>
 <br>
 This is how it looks in the game:<br>
@@ -202,7 +152,7 @@ For the initial reaction of the spring I used this formula:<br> <br><br> <br
 The result is a velocity which the spring platform and incoming body share.<br>
 For reliability reasons, the velocity of an incoming body is detected via an Area2D,<br>
 which is placed slightly above the springs surface, before actual contact is made.<br>
-(collision code:<a href="about:blank#fn-2-a99678144a7e9912" class="footnote-link" target="_self" rel="noopener">[2]</a>)<br>func body_on_spring() -&gt; void:
+(collision code:<a href="about:blank#fn-2-26e6703b65a59227" class="footnote-link" target="_self" rel="noopener">[2]</a>)<br>func body_on_spring() -&gt; void:
     var a_vel = stored_incoming_velocity
     var a_mass = coupled_body().mass
     var b_vel = y_velocity
@@ -245,7 +195,7 @@ and use the delta time to calculate the current velocity.<br> <br><br> <br>f
     self.position.y += y_velocity * delta
 Copy<br>I also use a friction variable between 0 and 1, which I apply to the velocity,<br>
 so that the spring won't oscillate forever.<br>
-(the code for body_contact: <a href="about:blank#fn-3-a99678144a7e9912" class="footnote-link" target="_self" rel="noopener">[3]</a> and body exiting: <a href="about:blank#fn-4-a99678144a7e9912" class="footnote-link" target="_self" rel="noopener">[4]</a>)<br> <br><br><br><br> <br>
+(the code for body_contact: <a href="about:blank#fn-3-26e6703b65a59227" class="footnote-link" target="_self" rel="noopener">[3]</a> and body exiting: <a href="about:blank#fn-4-26e6703b65a59227" class="footnote-link" target="_self" rel="noopener">[4]</a>)<br> <br><br><br><br> <br>
 When the spring is stretched out, be it by the weight of the platform itself or<br>
 the combined weight together with a body (player/creature), it results in<br>
 some potential energy being stored within the spring. This is calculated<br>
@@ -290,7 +240,7 @@ in the stretched spring. I might add that in the future, but for now<br>
 I enjoy that I could bring some of the mechanical depth of N++ over to Blobby😄<br><br><br><br><br>
 <br>
 <br>
-A collection of formulas and tables for STEM subjects in german high school. There are books like that in many countries. It's called Binas in the netherlands and Maol Taulukot in finland.<a href="about:blank#fnref-1-a99678144a7e9912" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+A collection of formulas and tables for STEM subjects in german high school. There are books like that in many countries. It's called Binas in the netherlands and Maol Taulukot in finland.<a href="about:blank#fnref-1-26e6703b65a59227" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
 
 <br>
 func _on_EnteringVelocityDetector_area_entered(area: Area2D) -&gt; void:
@@ -299,7 +249,7 @@ func _on_EnteringVelocityDetector_area_entered(area: Area2D) -&gt; void:
 		stored_incoming_velocity = area.get_parent().velocity.y
 
 Copy
-<a href="about:blank#fnref-2-a99678144a7e9912" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+<a href="about:blank#fnref-2-26e6703b65a59227" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
 
 <br>
 var coupled_body_ref = weakref(null)
@@ -317,7 +267,7 @@ func _body_contact() -&gt; bool:
     return false
 
 Copy
-<a href="about:blank#fnref-3-a99678144a7e9912" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+<a href="about:blank#fnref-3-26e6703b65a59227" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
 
 <br>
 func _on_EnteringVelocityDetector_area_exited(area: Area2D) -&gt; void:
@@ -325,28 +275,19 @@ func _on_EnteringVelocityDetector_area_exited(area: Area2D) -&gt; void:
         $SpringSound.play()
         spring_sound_armed = false
 Copy
-<a href="about:blank#fnref-4-a99678144a7e9912" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
+<a href="about:blank#fnref-4-26e6703b65a59227" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
 
 ]]></description><link>posts-📰\springs.html</link><guid isPermaLink="false">Posts 📰/Springs.md</guid><pubDate>Fri, 16 Feb 2024 14:26:18 GMT</pubDate></item><item><title><![CDATA[About]]></title><description><![CDATA[ 
  <br><br>Hi, I'm Jakob aka CommonParrot.<br>
-I enjoy building games and learning how to make them better😄<br>
+As a gameplay programmer I enjoy building games and learning how to make them better😄<br>
 It's the small details of the player experience which I really love to work on.<br>
 I think it's fundamental to communicate a games vibe over the smallest<br>
 feedback the player gets.<br>
-<br>
 Being deliberate with this is essential to getting across the experience<br>
 which was envisioned. And that doesn't only include character movement and interactions with the environment, but also everything from tutorials to UI.<br>
 <br>
-After writing software professionally in C# for a while and making games in Godot on the side, I'm dedicating a year developing games full time and trying to enter the industry as a game developer.<br>
-<br>
-After finishing the vertical slice of Blobby in Godot, I've started<br>
-with Unity to keep my C# skills # and to improve as a software developer,<br>
-while making smaller games and toys.<br>
-<br>
-Check out my releases over on: <a rel="noopener" class="external-link" href="https://commonparrot.itch.io" target="_blank">https://commonparrot.itch.io</a><br>
-<br><br><br><br><br>Blobby: <br><a data-tooltip-position="top" aria-label="Posts 📰/Cool Features.md" data-href="Posts 📰/Cool Features.md" href="posts-📰\cool-features.html" class="internal-link" target="_self" rel="noopener">Cool Features</a><br><a data-tooltip-position="top" aria-label="Posts 📰/Springs.md" data-href="Posts 📰/Springs.md" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a><br>Snacke: <br><a data-tooltip-position="top" aria-label="Posts 📰/How to make a snake bend.md" data-href="Posts 📰/How to make a snake bend.md" href="posts-📰\how-to-make-a-snake-bend.html" class="internal-link" target="_self" rel="noopener">How to make a snake bend</a><br><br>
-<br><br><br><br><br><br>
-This blog is powered by the awesome Obsidian<br>
+You can test Blobby (my most complete project) in your browsers over at:<br>
+<a rel="noopener" class="external-link" href="https://commonparrot.itch.io" target="_blank">https://commonparrot.itch.io</a><br><br><br><br><br><br><br>Blobby: <br><a data-tooltip-position="top" aria-label="Posts 📰/Cool Features.md" data-href="Posts 📰/Cool Features.md" href="posts-📰\cool-features.html" class="internal-link" target="_self" rel="noopener">Cool Features</a><br><a data-tooltip-position="top" aria-label="Posts 📰/Springs.md" data-href="Posts 📰/Springs.md" href="posts-📰\springs.html" class="internal-link" target="_self" rel="noopener">Springs</a><br>Snacke: <br><a data-tooltip-position="top" aria-label="Posts 📰/How to make a snake bend.md" data-href="Posts 📰/How to make a snake bend.md" href="posts-📰\how-to-make-a-snake-bend.html" class="internal-link" target="_self" rel="noopener">How to make a snake bend</a><br><br>This blog is powered by the awesome Obsidian<br>
 and the equally awesome HTML export plugin.<br>
 <a rel="noopener" class="external-link" href="https://obsidian.md/" target="_blank">https://obsidian.md/</a><br>
-<a rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">https://github.com/KosmosisDire/obsidian-webpage-export</a>]]></description><link>about.html</link><guid isPermaLink="false">About.md</guid><pubDate>Tue, 14 May 2024 18:32:09 GMT</pubDate><enclosure url="images\sso_screenshot4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images\sso_screenshot4.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<a rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">https://github.com/KosmosisDire/obsidian-webpage-export</a>]]></description><link>about.html</link><guid isPermaLink="false">About.md</guid><pubDate>Mon, 27 May 2024 13:58:54 GMT</pubDate><enclosure url="images\sso_screenshot4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="images\sso_screenshot4.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
